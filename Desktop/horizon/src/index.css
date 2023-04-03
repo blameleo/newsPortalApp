@@ -1,3 +1,14 @@
-.nav {
-    padding: 0 2em;
+.carou {
+    display: block;
+    width: 100%;
+    height: 50%;
+}
+
+.abt {
+    width: 100%;
+}
+
+.card-cont {
+    display: flex;
+    justify-content: space-between;
 }
