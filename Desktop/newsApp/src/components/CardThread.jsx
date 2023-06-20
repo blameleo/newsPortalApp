@@ -15,7 +15,12 @@ export default function CardThread({ data }) {
             />
 
             <h1 className="text-2xl font-bold py-3">Blog title</h1>
-            <p className="">Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ipsum, similique facilis reprehenderit deserunt nostrum odit omnis nemo perspiciatis minus aliquam necessitatibus. Ab nisi dolore quis, iure iste deleniti autem!</p>
+            <p className="">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
+              ipsum, similique facilis reprehenderit deserunt nostrum odit omnis
+              nemo perspiciatis minus aliquam necessitatibus. Ab nisi dolore
+              quis, iure iste deleniti autem!
+            </p>
           </div>
         );
       })}
